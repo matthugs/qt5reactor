@@ -63,3 +63,8 @@ You can specify to use the qt5reactor by adding ``--reactor=qt5reactor``.
 
 .. _pytest-twisted: https://github.com/pytest-dev/pytest-twisted
 .. _pytest: https://github.com/pytest-dev/pytest
+
+AI Policy
+---------
+
+Qt5Reactor follows the `Twisted AI Policy <https://docs.twisted.org/en/latest/development/ai-policy.html>`_. This means this project does not allow the inclusion of the outputs of generative AI tools.
